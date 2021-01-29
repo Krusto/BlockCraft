@@ -1,0 +1,4 @@
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\GLFW\bin\Debug-windows-x86_64\GLFW\GLFW.pdb
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\GLFW.pdb
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\vendor\GLFW\bin\Debug-windows-x86_64\GLFW\GLFW.pdb
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\GLFW.pdb
