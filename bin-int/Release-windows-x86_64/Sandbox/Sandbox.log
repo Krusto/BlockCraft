@@ -1,0 +1,25 @@
+﻿  Block.cpp
+  Camera.cpp
+  Chunk.cpp
+  main.cpp
+  MeshBuilder.cpp
+  Noise.cpp
+  Texture.cpp
+  Window.cpp
+  World.cpp
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\Chunk.h(6,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory (compiling source file src\MeshBuilder.cpp)
+  stb_image.cpp
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\Chunk.h(6,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory (compiling source file src\Chunk.cpp)
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\Camera.cpp(4,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\include\algorithm(2428,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data (compiling source file src\Noise.cpp)
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\Noise.cpp(30): message : see reference to function template instantiation '_OutIt std::generate_n<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int,PerlinNoise::{ctor}::<lambda_d8866748baf3c1baa4dc9b3584c32294>>(_OutIt,const _Diff,_Fn)' being compiled
+          with
+          [
+              _OutIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              _Ty=int,
+              _Diff=int,
+              _Fn=PerlinNoise::{ctor}::<lambda_d8866748baf3c1baa4dc9b3584c32294>
+          ]
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\Texture.cpp(3,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\Chunk.h(6,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory (compiling source file src\World.cpp)
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\Renderer.h(2,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory (compiling source file src\main.cpp)

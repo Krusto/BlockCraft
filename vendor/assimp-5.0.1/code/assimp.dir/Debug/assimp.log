@@ -1,0 +1,164 @@
+﻿  3DSExporter.cpp
+  D3MFExporter.cpp
+  D3MFImporter.cpp
+  D3MFOpcPackage.cpp
+  ASELoader.cpp
+  ASEParser.cpp
+  AssbinExporter.cpp
+  json_exporter.cpp
+  mesh_splitter.cpp
+  AssxmlExporter.cpp
+  B3DImporter.cpp
+  BlenderBMesh.cpp
+  BlenderCustomData.cpp
+  BlenderDNA.cpp
+  BlenderLoader.cpp
+  BlenderModifier.cpp
+  BlenderScene.cpp
+  BlenderTessellator.cpp
+  COBLoader.cpp
+  CSMLoader.cpp
+  ColladaExporter.cpp
+  ColladaLoader.cpp
+  ColladaParser.cpp
+  DXFLoader.cpp
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\CSM\CSMLoader.cpp(181,77): warning C4267: '=': conversion from 'size_t' to 'ai_uint32', possible loss of data
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\Collada\ColladaLoader.cpp(1857,33): warning C4244: '=': conversion from 'ptrdiff_t' to 'ai_uint32', possible loss of data
+  FBXAnimation.cpp
+  FBXBinaryTokenizer.cpp
+  FBXConverter.cpp
+  FBXDeformer.cpp
+  FBXDocument.cpp
+  FBXDocumentUtil.cpp
+  FBXExportNode.cpp
+  FBXExportProperty.cpp
+  FBXExporter.cpp
+  FBXImporter.cpp
+  FBXMaterial.cpp
+  FBXMeshGeometry.cpp
+  FBXModel.cpp
+  FBXNodeAttribute.cpp
+  FBXParser.cpp
+  FBXProperties.cpp
+  FBXTokenizer.cpp
+  FBXUtil.cpp
+  HMPLoader.cpp
+  IFCBoolean.cpp
+  IFCCurve.cpp
+  IFCGeometry.cpp
+  IFCLoader.cpp
+  IFCMaterial.cpp
+  IFCOpenings.cpp
+  IFCProfile.cpp
+  IFCReaderGen1_2x3.cpp
+  IFCReaderGen2_2x3.cpp
+  IFCUtil.cpp
+  StepFileGen1.cpp
+  StepFileGen2.cpp
+  StepFileGen3.cpp
+  StepFileImporter.cpp
+  IRRLoader.cpp
+  IRRMeshLoader.cpp
+  IRRShared.cpp
+  LWOAnimation.cpp
+  LWOBLoader.cpp
+  LWOLoader.cpp
+  LWOMaterial.cpp
+  LWSLoader.cpp
+  MD2Loader.cpp
+  MD3Loader.cpp
+  MD5Loader.cpp
+  MD5Parser.cpp
+  MDCLoader.cpp
+  MDLLoader.cpp
+  MDLMaterialLoader.cpp
+  MMDImporter.cpp
+  MMDPmxParser.cpp
+  MS3DLoader.cpp
+  NDOLoader.cpp
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\MDL\MDLMaterialLoader.cpp(544,29): warning C4267: '=': conversion from 'size_t' to 'ai_uint32', possible loss of data
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\MDL\MDLMaterialLoader.cpp(713,29): warning C4267: '=': conversion from 'size_t' to 'ai_uint32', possible loss of data
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\MDL\MDLMaterialLoader.cpp(834,46): warning C4267: '=': conversion from 'size_t' to 'ai_uint32', possible loss of data
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\MDL\MDLLoader.cpp(1556,46): warning C4267: '=': conversion from 'size_t' to 'ai_uint32', possible loss of data
+  NFFLoader.cpp
+  OFFLoader.cpp
+  ObjExporter.cpp
+  ObjFileImporter.cpp
+  ObjFileMtlImporter.cpp
+  ObjFileParser.cpp
+  OgreBinarySerializer.cpp
+  OgreImporter.cpp
+  OgreMaterial.cpp
+  OgreStructs.cpp
+  OgreXmlSerializer.cpp
+  OpenGEXExporter.cpp
+  OpenGEXImporter.cpp
+  PlyExporter.cpp
+  PlyLoader.cpp
+  PlyParser.cpp
+  Q3BSPFileImporter.cpp
+  Q3BSPFileParser.cpp
+  Q3DLoader.cpp
+  RawLoader.cpp
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\Q3BSP\Q3BSPFileImporter.cpp(619,46): warning C4267: '=': conversion from 'size_t' to 'ai_uint32', possible loss of data
+  SIBImporter.cpp
+  SMDLoader.cpp
+  STLExporter.cpp
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\SMD\SMDLoader.cpp(619,55): warning C4267: '=': conversion from 'size_t' to 'ai_uint32', possible loss of data
+  STLLoader.cpp
+  StepExporter.cpp
+  TerragenLoader.cpp
+  UnrealLoader.cpp
+  FIReader.cpp
+  X3DExporter.cpp
+  X3DImporter.cpp
+  X3DImporter_Geometry2D.cpp
+  X3DImporter_Geometry3D.cpp
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\Unreal\UnrealLoader.cpp(406,36): warning C4267: '=': conversion from 'size_t' to 'ai_uint32', possible loss of data
+  X3DImporter_Group.cpp
+  X3DImporter_Light.cpp
+  X3DImporter_Metadata.cpp
+  X3DImporter_Networking.cpp
+  X3DImporter_Postprocess.cpp
+  X3DImporter_Rendering.cpp
+  X3DImporter_Shape.cpp
+  X3DImporter_Texturing.cpp
+  X3DVocabulary.cpp
+  XGLLoader.cpp
+  XFileExporter.cpp
+  XFileImporter.cpp
+  XFileParser.cpp
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\X\XFileImporter.cpp(214,47): warning C4267: '=': conversion from 'size_t' to 'ai_uint32', possible loss of data
+  glTF2Exporter.cpp
+  glTF2Importer.cpp
+  glTFCommon.cpp
+  glTFExporter.cpp
+  glTFImporter.cpp
+  o3dgcArithmeticCodec.cpp
+  o3dgcDynamicVectorDecoder.cpp
+  o3dgcDynamicVectorEncoder.cpp
+  o3dgcTools.cpp
+  o3dgcTriangleFans.cpp
+  clipper.cpp
+  DDLNode.cpp
+  OpenDDLCommon.cpp
+  OpenDDLExport.cpp
+  OpenDDLParser.cpp
+  OpenDDLStream.cpp
+  Value.cpp
+  shapes.cc
+  advancing_front.cc
+  cdt.cc
+  sweep.cc
+  sweep_context.cc
+  cencode.c
+  ioapi.c
+  unzip.c
+  zip.c
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\Assjson\cencode.c(45,31): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\Assjson\cencode.c(56,31): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\Assjson\cencode.c(67,31): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\Assjson\cencode.c(84,28): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\code\Assjson\cencode.c(107,28): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+     Creating library C:/Users/KrustoPC/Documents/Projects/MinecraftClone/Fiko/vendor/assimp-5.0.1/lib/Debug/assimp-vc142-mtd.lib and object C:/Users/KrustoPC/Documents/Projects/MinecraftClone/Fiko/vendor/assimp-5.0.1/lib/Debug/assimp-vc142-mtd.exp
+  assimp.vcxproj -> C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\bin\Debug\assimp-vc142-mtd.dll

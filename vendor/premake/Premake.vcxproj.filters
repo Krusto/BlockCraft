@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="..">
+      <UniqueIdentifier>{61705900-4DFC-870B-B6AA-880BA255880B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Fiko">
+      <UniqueIdentifier>{19847E47-8563-FDE2-8E7B-88B9FAD96344}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Fiko\vendor">
+      <UniqueIdentifier>{5664836E-4232-7774-2BC6-E79A173353D9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Fiko\vendor\GLFW">
+      <UniqueIdentifier>{55455808-C1A6-3516-4A14-7CC8B6746CD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Fiko\vendor\Glad">
+      <UniqueIdentifier>{FDD05808-6932-3616-F29F-7CC85E006DD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Fiko\vendor\imgui">
+      <UniqueIdentifier>{40DADA15-2C69-64DF-D587-78DAC1F57485}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Fiko\vendor\yaml-cpp">
+      <UniqueIdentifier>{C80BE72C-3443-2FC4-3D4D-93E7A90356BD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\Sandbox">
+      <UniqueIdentifier>{3F7B6B1D-2B33-AD6A-943A-86C68011485B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\arch">
+      <UniqueIdentifier>{8E778D47-FA56-0CE3-036F-97B96FCD7244}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\arch\Fiko">
+      <UniqueIdentifier>{660F47EC-5272-D690-FBF7-0E47E739A213}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\arch\Fiko\vendor">
+      <UniqueIdentifier>{0397AEB0-6FF8-8BBE-F865-D27064C6C27D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\arch\Fiko\vendor\GLFW">
+      <UniqueIdentifier>{222CDF92-0E51-2E13-379C-13A323202D31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\arch\Fiko\vendor\Glad">
+      <UniqueIdentifier>{CAB7DF92-B6DC-2E13-DF27-14A3CBAB2D31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\arch\Fiko\vendor\imgui">
+      <UniqueIdentifier>{AD9A3EF1-195D-727B-620D-0108CE0E4B59}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Fiko\premake5.lua">
+      <Filter>..\Fiko</Filter>
+    </None>
+    <None Include="..\..\Fiko\vendor\GLFW\premake5.lua">
+      <Filter>..\Fiko\vendor\GLFW</Filter>
+    </None>
+    <None Include="..\..\Fiko\vendor\Glad\premake5.lua">
+      <Filter>..\Fiko\vendor\Glad</Filter>
+    </None>
+    <None Include="..\..\Fiko\vendor\imgui\premake5.lua">
+      <Filter>..\Fiko\vendor\imgui</Filter>
+    </None>
+    <None Include="..\..\Fiko\vendor\yaml-cpp\premake5.lua">
+      <Filter>..\Fiko\vendor\yaml-cpp</Filter>
+    </None>
+    <None Include="..\..\Sandbox\premake5.lua">
+      <Filter>..\Sandbox</Filter>
+    </None>
+    <None Include="..\..\arch\Fiko\vendor\GLFW\premake5.lua">
+      <Filter>..\arch\Fiko\vendor\GLFW</Filter>
+    </None>
+    <None Include="..\..\arch\Fiko\vendor\Glad\premake5.lua">
+      <Filter>..\arch\Fiko\vendor\Glad</Filter>
+    </None>
+    <None Include="..\..\arch\Fiko\vendor\imgui\premake5.lua">
+      <Filter>..\arch\Fiko\vendor\imgui</Filter>
+    </None>
+    <None Include="..\..\arch\premake5.lua">
+      <Filter>..\arch</Filter>
+    </None>
+    <None Include="..\..\premake5.lua">
+      <Filter>..</Filter>
+    </None>
+    <None Include="premake5.lua" />
+  </ItemGroup>
+</Project>

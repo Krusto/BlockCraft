@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\main.cpp(40,17): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'const char *'
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\main.cpp(40,17): warning C4313: 'fprintf': '%c' in format string conflicts with argument 1 of type 'const char *'
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\main.cpp(111,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\main.cpp(112,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\main.cpp(115,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\main.cpp(154,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\KrustoPC\Documents\Projects\BlockCraft\src\main.cpp(158,24): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Sandbox.vcxproj -> C:\Users\KrustoPC\Documents\Projects\BlockCraft\bin\Debug-windows-x86_64\Sandbox\Sandbox.exe

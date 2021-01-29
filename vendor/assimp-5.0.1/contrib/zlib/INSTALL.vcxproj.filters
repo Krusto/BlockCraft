@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\CMakeFiles\dadb51f1d0e54e507e82646dd3ea53c5\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1C0A2FA6-13DF-3581-AEF6-FEFE69277549}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

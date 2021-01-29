@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/KrustoPC/Documents/Projects/MinecraftClone/Fiko/vendor/assimp-5.0.1/tools/assimp_cmd/CMakeLists.txt
+  CompareDump.cpp
+  ImageExtractor.cpp
+  Main.cpp
+  WriteDumb.cpp
+  Info.cpp
+  Export.cpp
+  assimp_cmd.vcxproj -> C:\Users\KrustoPC\Documents\Projects\MinecraftClone\Fiko\vendor\assimp-5.0.1\bin\Release\assimp.exe
